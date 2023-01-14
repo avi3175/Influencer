@@ -197,6 +197,7 @@
     display: flex;
     gap: 20px;
     justify-content: center;
+    margin-bottom: 150px;
 }
 .featured-article{
     display: flex;
@@ -206,3 +207,33 @@
     justify-items: center;
     align-content: center;
 }
+/* FOOTER SECTION */
+
+.footer{
+    background-color: #0A0826;
+    height: 239px;
+}
+.footer h4{
+    color: #FFFFFF;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+     
+    
+}
+.footer p{
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: 700;
+    
+}
+.footer-flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+
+
+/*  */
