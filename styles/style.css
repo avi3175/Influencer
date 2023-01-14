@@ -162,4 +162,47 @@
 }
 .popular-section{
     text-align: center;
+    margin-bottom: 150px;
+}
+/* THE LAST SECTION */
+.featured-article h2{
+    color: #0A0826;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 30px;
+}
+.featured-article p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #6C6C6C
+}
+.join-us{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: #E02C6D;
+    padding: 10px 30px;
+    width: 80px;
+    text-decoration: none;
+}
+.join-us a{
+    text-align: center;
+    text-decoration: none;
+}
+.feature-products{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.featured-article{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items:flex-start;
+    justify-items: center;
+    align-content: center;
 }
